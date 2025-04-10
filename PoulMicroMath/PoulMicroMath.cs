@@ -8,6 +8,12 @@ namespace PoulMicroMath
 {
     public class PoulMicroMath
     {
+       /// <summary>
+       /// Lægger to tal sammen
+       /// </summary>
+       /// <param name="t1">det første tal</param>
+       /// <param name="t2">det andet tal</param>
+       /// <returns>et heltal der er summen af t1 og t2</returns>
         public int Add(int t1, int t2)
         {
             return t1 + t2;
