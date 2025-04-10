@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PoulMicroMath
 {
-    public class PoulMicroMath
+    public class PoulMicroMath //Pouls Mathc klasse
     {
        /// <summary>
        /// Lægger to tal sammen
