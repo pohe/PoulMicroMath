@@ -19,7 +19,7 @@ namespace PoulMicroMath
             return t1 + t2;
         }
 
-        public int Add3Numbers(int t1, int t2, int t3)
+        public int Add3Numbers(int t1, int t2, int t3) //Comment Add3 numbers
         {
             return t1 + t2 + t3; //add 3 numbers
         }
